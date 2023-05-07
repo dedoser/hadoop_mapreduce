@@ -1,0 +1,8 @@
+org/vmk/endede/XmlUtils.class
+org/vmk/endede/CountryItPopularity$LocationReducer.class
+org/vmk/endede/CountryItPopularity.class
+org/vmk/endede/CountryItPopularity$CommentsMapper.class
+org/vmk/endede/CountryItPopularity$LocationCounter.class
+org/vmk/endede/CountryItPopularity$UsersMapper.class
+org/vmk/endede/CountryItPopularity$LocationMapper.class
+org/vmk/endede/CountryItPopularity$PostsMapper.class
